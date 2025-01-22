@@ -30,3 +30,7 @@ I am a dedicated Computer Science student at Georgia State University's Perimete
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
 - GitHub: [GitHub Profile](https://github.com/yourusername)
 
+
+remote_theme: pages-themes/tactile@v0.2.0
+plugins:
+- jekyll-remote-theme
