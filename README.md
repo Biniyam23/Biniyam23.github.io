@@ -27,8 +27,8 @@ I am a dedicated Computer Science student at Georgia State University's Perimete
 
 ### Contact Me
 - Email: [binyamdagne23@gmail.com](mailto:binyamdagne23@gmail.com)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- GitHub: [GitHub Profile](https://github.com/yourusername)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/bineyammila)
+- GitHub: [GitHub Profile](https://github.com/Biniyam23/Biniyam23.github.io)
 
 
 remote_theme: pages-themes/tactile@v0.2.0
