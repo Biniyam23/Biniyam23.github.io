@@ -1,36 +1,31 @@
-# Hi, I'm Bineyam Mila
-## Software Developer | Computer Science Major at Georgia State University
+# 👋 Hi, I'm Biniyam Mila
 
-Welcome to my professional portfolio page!
+🎓 Computer Science student @ Georgia State University  
+📊 Aspiring Data Scientist | Python, SQL, Machine Learning  
+📍 Based in Atlanta | Open to remote internships
 
-### About Me
-I am a dedicated Computer Science student at Georgia State University's Perimeter College, focused on a career in software development. Coming from a large immigrant family, I am driven to excel in the tech industry and make a positive impact, particularly in sectors like healthcare, education, and environmental sustainability.
+---
 
-### Projects
-1. **System-Level Programming** - Developed various system utilities and tools using C programming on MacOS. Implemented functions interacting directly with system hardware and processes.
-2. **Linear Algebra Applications** - Created software solutions to solve complex mathematical problems and visualize data transformations.
-3. **Volunteer Management System** - Designed a database and front-end interface for managing volunteer activities and schedules.
+## 💼 About Me
+- 🔍 Passionate about uncovering insights from data
+- 🤖 Interested in NLP, data engineering, and ethical AI
+- 🌱 Currently learning: scikit-learn, Tableau, Streamlit
 
-### Skills
-- Proficient in C, Java, and Python
-- Strong understanding of system-level programming
-- Experienced in linear algebra and mathematical software development
+---
 
-### Experience
-- **Volunteer**, Community Tech Aid
-  - Led initiatives to teach basic computer skills to underprivileged community members.
-- **Research Assistant**, GSU Perimeter College
-  - Assisted in research focused on developing algorithms for optimizing database queries.
+## 🧠 Featured Projects
+- 📈 **SciSynth Dashboards**: Automated API pipeline and Power BI dashboards for 9K+ records  
+  → `Coming soon to this GitHub!`
+  
+- 🧮 **SQL CTW Reporting Tool**: PostgreSQL + Python project analyzing student logs  
+  → `Coming soon to this GitHub!`
+  
+- 🔗 **Social Network Graph Tool**: Visualized clusters & paths with Python OOP and BFS/DFS  
+  → `Coming soon to this GitHub!`
 
-### Education
-- **Bachelor of Science in Computer Science**, Georgia State University's Perimeter College, Expected Graduation 2025
+---
 
-### Contact Me
-- Email: [binyamdagne23@gmail.com](mailto:binyamdagne23@gmail.com)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/bineyammila)
-- GitHub: [GitHub Profile](https://github.com/Biniyam23/Biniyam23.github.io)
-
-
-remote_theme: pages-themes/tactile@v0.2.0
-plugins:
-- jekyll-remote-theme
+## 📫 Contact Me
+- ✉️ binyamdagne23@gmail.com  
+- 🌐 [LinkedIn](https://linkedin.com/in/bineyammila)
+- 🌍 [Portfolio](https://biniyam23.github.io)
