@@ -2,8 +2,7 @@
 
 🎓 Computer Science student @ Georgia State University  
 📊 Aspiring Data Scientist | Python, SQL, Machine Learning  
-📍 Based in Atlanta | Open to remote internships
-
+📍 Based in Atlanta | Open to remote jobs
 ---
 
 ## 💼 About Me
